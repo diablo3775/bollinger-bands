@@ -1,0 +1,6 @@
+The app we are going to build is that a screen reader and take a screenshot of certain condition in bollinger bands strategy
+
+We will not have any api
+The app should just watch the trading screen and apply the condition of taking screenshot.
+
+It will watch the bollinger bands when the candle comes out it will take a screenshot of it
